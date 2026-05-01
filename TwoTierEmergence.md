@@ -1,4 +1,4 @@
-# **The Two‑Tier Emergence Hypothesis (v6)**  
+# **The Two‑Tier Emergence Hypothesis**  
 ### *A Substrate‑Agnostic Theory of Intelligence, Consciousness, and Synchronisation Operators*  
 *By William Murray*
 
