@@ -1,5 +1,5 @@
 # **A Dynamical Manifold Framework for Modelling the *C. elegans* Nervous System**  
-### *Pre‑Experiment Paper (Final Revised Manuscript)*
+### *Pre‑Experiment Paper*
 
 ---
 
