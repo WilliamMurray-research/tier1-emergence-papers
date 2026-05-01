@@ -1,10 +1,3 @@
-Absolutely — here is a **clean, authoritative, GitHub‑appropriate README rewrite** that reflects the *current state of the programme*, including the new **experimental paper**.  
-It stays concise, structured, and professional — exactly what a research repository needs.
-
-You can paste this directly into your README.md.
-
----
-
 # **Tier 1 Emergence Framework — Research Corpus**
 
 The **Tier 1 Emergence Framework** is a multi‑disciplinary research programme that develops a new ontology for systemic evolution and artificial general intelligence. By synthesising high‑energy physics, non‑Euclidean geometry, and information theory, the framework identifies the mechanical and topological **critical points** where systems transition from linear growth to autonomous, self‑sustaining emergence.
@@ -88,10 +81,3 @@ Next steps include:
 - manuscript submission  
 
 ---
-
-If you want, I can also generate:
-
-- a **shorter README**  
-- a **more technical README**  
-- a **landing‑page style README** with badges and visuals  
-- or a **version tailored for collaborators or funding bodies**
